@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conhecer mais de mim, me segue a gente nas rede abaixo!
+### Pra conhecer mais de mim, me segue na rede abaixo!
  
 <div> 
   <a href="https://instagram.com/what_supbraya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
